@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amritheswar
 - 👀 I’m 🚀 Tech Enthusiast | Aspiring IT Professional | Passionate About Innovation
-- 🌱 I’m currently learning AI,ML&DL
+- 🌱 I’m currently learning AI,ML&DL|Web Development|Game Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my email address is amritheswaras@gmail.com
 - 😄 Pronouns: ...
